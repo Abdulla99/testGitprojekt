@@ -1,4 +1,8 @@
 this is my life
 ma life
 
+<<<<<<< HEAD
 Hallo ich th developer 2 
+=======
+iam the developer 1  
+>>>>>>> 9d0cfb1a2054ce895014f6b448fa4c02e4829b82
